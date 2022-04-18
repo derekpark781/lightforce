@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: engineering_project 
+    database: lightforce 
+
+    tables:
+      - name: projects
+      - name: projects_audit
+      - name: invites
+      - name: invites_audit
+      - name: carriers
+      - name: product_types
