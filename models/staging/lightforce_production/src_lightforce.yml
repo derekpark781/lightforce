@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: engineering_project 
-    database: lightforce 
+    database: threeflow 
 
     tables:
       - name: projects
