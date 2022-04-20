@@ -11,7 +11,7 @@ with base
         as (
 
             select 
-                id,
+                id as invite_id,
                 projectid as project_id,
                 carrierid as carrier_id,
                 status,
